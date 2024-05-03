@@ -1,0 +1,48 @@
+.foto2 {
+    float: left;    
+    margin: 30px;
+   
+
+}
+.foto3 {
+    float: left;    
+    margin: 120px;
+;
+
+}
+.foto4 {
+    float: right;
+    margin: 120;
+}
+
+
+.texto1{
+    color: #007bff;
+}
+.texto2{
+    color: #007bff;
+}
+.texto3{
+    color: #007bff;
+}
+.texto4{
+    color: #007bff;
+}
+.texto5{
+    color: #007bff;
+}
+.texto6{
+    color: #007bff;
+}
+.header{
+    padding: 25px;
+    text-align: left;
+    background-color: #007bff;
+
+}
+
+.item1{
+    list-style: none;
+    
+
+}
